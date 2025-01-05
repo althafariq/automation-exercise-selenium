@@ -1,0 +1,19 @@
+{
+  "name": "automation-selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "mocha": "^11.0.1"
+  }
+}
